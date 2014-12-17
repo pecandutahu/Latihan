@@ -11,7 +11,8 @@ and open the template in the editor.
     </head>
     <body>
         <?php
-        echo "Latihan :)"
+        echo "Latihan :)";
+        echo "ini adalalah perubahan hasil git :D"
         ?>
     </body>
 </html>
